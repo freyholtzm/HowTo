@@ -1,0 +1,57 @@
+
+.section {
+   background-color: white;
+   color: black;
+   font-family: 'Hind', sans-serif;
+   font-size:
+  }
+h1 {
+  font-family: 'Megrim', cursive;
+  }
+h2 {
+  font-family: 'Poiret One', cursive;
+  }
+h3 {
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+  }
+p {
+  font-family: 'Raleway', sans-serif;
+  }
+li {
+  font-family: 'Raleway', sans-serif;
+  }
+    .outer-box {
+        background-color:grey;
+        margin:10px;
+        padding:10px;
+        min-height:300px;
+      }
+    .name {
+        color:white;
+        font-family:Tahoma;
+        margin-left:20px;
+      }
+    .picture {
+        margin-left:20px;
+        margin-right:20px;
+        margin-bottom:10px;
+        float:left;
+        border:2px solid black;
+      }
+    .bio {
+        font-family:Tahoma;
+        padding-left:20px;
+        padding-right:20px;
+        padding-bottom:20px;
+      }
+img {
+  display:block;
+}
+ul {
+  list-style-type:square
+}  
+#ad {
+  float:right;
+  margin-right:10px;
+}
